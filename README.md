@@ -2,7 +2,7 @@
 
 Are you passionate about open-source development and have a project you'd love to share?
 
-This is your chance to showcase your open-source project in front of a community of developers and get valuable feedback.
+This is your chance to showcase your open-source project in front of a community of developers and get valuable feedback. Submit your project using the [Community Spotlight Issue Form](https://github.com/gittogethers/spotlight/issues/new?template=community-spotlight.yml)
 
 **GitTogethers** are developer meetups led by local community experts and powered by GitHub. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level.
 
