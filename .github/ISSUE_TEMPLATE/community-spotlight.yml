@@ -89,7 +89,7 @@ body:
     id: twitter
     attributes:
       label: Twitter/X Username
-      placeholder: @username
+      placeholder: username
 
   - type: dropdown
     id: social_media_tagging
