@@ -96,7 +96,7 @@ body:
     attributes:
       label: Will you be okay with us tagging you on social media? *
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
