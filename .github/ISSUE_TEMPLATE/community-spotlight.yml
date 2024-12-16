@@ -49,7 +49,7 @@ body:
   - type: input
     id: full_name
     attributes:
-      label: Full Name *
+      label: Full Name
     validations:
       required: true
 
@@ -63,7 +63,7 @@ body:
   - type: input
     id: city
     attributes:
-      label: City *
+      label: City
     validations:
       required: true
 
