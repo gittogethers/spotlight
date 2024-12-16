@@ -28,7 +28,7 @@ Your project must meet the following requirements:
 
 ## Submit Your Project
 
-To participate, submit your project using the [Community Spotlight Issue Form](./.github/ISSUE_TEMPLATE/community-spotlight.md).
+To participate, submit your project using the [Community Spotlight Issue Form](./.github/ISSUE_TEMPLATE/community-spotlight.yml).
 
 Required Details:
 1. Project Title
