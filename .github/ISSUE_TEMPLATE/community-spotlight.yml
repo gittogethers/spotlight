@@ -6,7 +6,7 @@ body:
   - type: dropdown
     id: event
     attributes:
-      label: Which GitTogether would you like to present at? *
+      label: Which GitTogether would you like to present at?
       options:
         - Bengaluru
         - Delhi NCR
@@ -19,21 +19,21 @@ body:
   - type: input
     id: project_title
     attributes:
-      label: Project Title *
+      label: Project Title
     validations:
       required: true
 
   - type: textarea
     id: project_description
     attributes:
-      label: Project Description *
+      label: Project Description
     validations:
       required: true
 
   - type: input
     id: repo_url
     attributes:
-      label: GitHub Repository URL *
+      label: GitHub Repository URL
       placeholder: https://github.com/username/repository
     validations:
       required: true
@@ -41,7 +41,7 @@ body:
   - type: input
     id: project_link
     attributes:
-      label: Live Project Link (for end-users) *
+      label: Live Project Link (for end-users)
       placeholder: https://example.com
     validations:
       required: true
@@ -56,7 +56,7 @@ body:
   - type: input
     id: role
     attributes:
-      label: Role/Designation and Company Name *
+      label: Role/Designation and Company Name
     validations:
       required: true
 
@@ -70,7 +70,7 @@ body:
   - type: dropdown
     id: country
     attributes:
-      label: Country *
+      label: Country
       options:
         - India
         - Brazil
@@ -94,7 +94,7 @@ body:
   - type: dropdown
     id: social_media_tagging
     attributes:
-      label: Will you be okay with us tagging you on social media? *
+      label: Will you be okay with us tagging you on social media?
       options:
         - "Yes"
         - "No"
